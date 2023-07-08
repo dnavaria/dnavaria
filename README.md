@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Navaria</h1>
-<h3 align="left" style="margin-left:20px;"><strong>A Full-Stack Developer from India</strong></h3>
+<h3 align="center"><strong>A Full-Stack Developer from India</strong></h3>
 
 - 🌱 I’m currently learning **Offensive Security Certified Professional**
 
