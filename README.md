@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, GO, RUST, Java, ReactJS, NextJS**
 
-- 📫 How to reach me **dnavaria15@gmail.com**
+- 📫 How to reach me **dnavaria15@gmail.com** or **dk17816@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
