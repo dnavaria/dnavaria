@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepak Navaria</h1>
-<h3 align="center">A Full-Stack Developer from India</h3>
+<h3 align="center"><strong>A Full-Stack Developer from India</strong></h3>
 
 - 🌱 I’m currently learning **Offensive Security Certified Professional**
 
 - 💬 Ask me about **Python, GO, RUST, Java, ReactJS, NextJS**
 
-- 📫 How to reach me **dnavaria15@gmail.com**
+- 📫 How to reach me **dnavaria15@gmail.com** or **dk17816@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
