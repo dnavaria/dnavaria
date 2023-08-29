@@ -75,6 +75,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnavaria&show_icons=true&locale=en&layout=compact" alt="dnavaria" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnavaria&show_icons=true&locale=en&layout=compact" alt="dnavaria" /></p> -->
 
 <p ><img style="margin-left:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=dnavaria&" alt="dnavaria" /></p>
