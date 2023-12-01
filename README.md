@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepak Navaria</h1>
 <h3 align="center"><strong>A Full-Stack Developer from India</strong></h3>
 
-- 🌱 I’m currently learning **Certified Kubernetes Administrator**
+- 🌱 I’m currently preparing for **Certified Kubernetes Administrator**
 
 - 💬 Ask me about **Python, GO, RUST, Java, ReactJS, NextJS**
 
-- 📫 How to reach me **dk17816@gmail.com**
+- 📫 How to reach me **dnavaria15+github@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
