@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently preparing for **Certified Kubernetes Administrator**
 
-- 💬 Ask me about **Python, GO, Java, ReactJS, NextJS**
+- 💬 Ask me about **Python, GO, Node JS, ReactJS, NextJS**
 
 - 📫 How to reach me **dnavaria15+github@gmail.com**
 
