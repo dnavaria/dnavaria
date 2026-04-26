@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Navaria</h1>
 <h3 align="center"><strong>A Full-Stack Developer from India</strong></h3>
 
-- 🌱 I’m currently preparing for **Certified Kubernetes Administrator**
-
 - 💬 Ask me about **Python, Node JS, ReactJS, NextJS**
 
 - 📫 How to reach me **dnavaria15+github@gmail.com**
